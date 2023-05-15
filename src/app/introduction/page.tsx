@@ -1,5 +1,5 @@
 import Link from "next/link";
-import SkillItem from "@/components/skill-item.jsx"
+import SkillItem from "@/components/skill-item";
 
 const Page = () => {
     return ( 
