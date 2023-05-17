@@ -8,9 +8,9 @@ const Page = () => {
                     <Link href="/">Home</Link>
                 </div>
                 <div className="flex-grow p-8 flex flex-col justify-between">
-                    <h1 className="text-7xl flex-grow-2 mb-10">Here's what I do...</h1>
+                    <h1 className="text-6xl flex-grow-2 mb-10">Here's what I do...</h1>
                     
-                    <div className="flex flex-col text-md flex-grow justify-between">
+                    <div className="flex flex-col text-md flex-grow justify-start">
                         <SkillItem name="Engineering Management"></SkillItem>
                         <SkillItem name="Web Development"></SkillItem>
                         <SkillItem name="Product Management"></SkillItem>

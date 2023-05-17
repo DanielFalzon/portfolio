@@ -31,7 +31,7 @@ export default function Home() {
         </div>
 
         
-        <button className='w-full bg-black text-yellow-100 py-4'>
+        <button className='w-full bg-cta text-black rounded-md py-4'>
           Let's Talk!
         </button>
       </div>
