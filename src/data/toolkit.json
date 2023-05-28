@@ -1,0 +1,72 @@
+[
+    {
+        "id": 0,
+        "name": "C#",
+        "logo_url": "/toolkit/csharp-logo.svg",
+        "type": "langauge",
+        "level": 2
+    },
+    {
+        "id": 1,
+        "name": ".NET",
+        "logo_url": "/toolkit/dotnet-logo.svg",
+        "type": "framework",
+        "level": 2
+    },
+    {
+        "id": 2,
+        "name": "JS",
+        "logo_url": "/toolkit/js-logo.svg",
+        "type": "langauge",
+        "level": 3
+    },
+    {
+        "id": 3,
+        "name": "Laravel",
+        "logo_url": "/toolkit/laravel-logo.svg",
+        "type": "framework",
+        "level": 3
+    },
+    {
+        "id": 4,
+        "name": "Next.js",
+        "logo_url": "/toolkit/nextjs-logo.svg",
+        "type": "framework",
+        "level": 4
+    },
+    {
+        "id": 5,
+        "name": "PHP",
+        "logo_url": "/toolkit/php-logo.svg",
+        "type": "language",
+        "level": 4
+    },
+    {
+        "id": 6,
+        "name": "Python",
+        "logo_url": "/toolkit/python-logo.svg",
+        "type": "language",
+        "level": 1
+    },
+    {
+        "id": 7,
+        "name": "Vue.js",
+        "logo_url": "/toolkit/vuejs-logo.svg",
+        "type": "language",
+        "level": 3
+    },
+    {
+        "id": 8,
+        "name": "Wordpress",
+        "logo_url": "/toolkit/wp-logo.svg",
+        "type": "framework",
+        "level": 3
+    },
+    {
+        "id": 9,
+        "name": "Dcoker",
+        "logo_url": "/toolkit/wp-logo.svg",
+        "type": "tool",
+        "level": 3
+    }
+]
