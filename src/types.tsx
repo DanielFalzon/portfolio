@@ -1,5 +1,5 @@
 //to check how to add enu with values
-export interface ToolkitItem {
+export interface IToolkitItem {
     id: number,
     name: string,
     logo_url: string,

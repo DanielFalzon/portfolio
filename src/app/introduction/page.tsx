@@ -7,7 +7,7 @@ const Page = () => {
             <ScrollButton link="/" title="Home" />
 
             <div className="flex-grow p-8 flex flex-col justify-between">
-                <h1 className="text-6xl flex-grow-2 mb-10">Here's what I do...</h1>
+                <h1 className="text-6xl flex-grow-2 mb-10">Here&apos;s what I do...</h1>
                 
                 <div className="flex flex-col text-md flex-grow justify-start">
                     <SkillItem name="Engineering Management"></SkillItem>

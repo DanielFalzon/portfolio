@@ -14,7 +14,7 @@ const SkillItem:FC<SkillItemProps> = ({name}) => {
                 { name }
             </div>
             <div className="text-sm text-black italic">
-                { formatTimeDiffFromCurr(new Date('2022-02-17').getTime()) }
+                { formatTimeDiffFromCurr(new Date("2022-02-17").getTime()) }
             </div>
         </div>
     )
