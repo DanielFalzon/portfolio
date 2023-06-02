@@ -4,5 +4,11 @@ export interface IToolkitItem {
     name: string,
     logo_url: string,
     type: string,
-    level: number
+    level: number,
+    years: number
+}
+
+export interface INavItem {
+    name: string,
+    link: string
 }
